@@ -1,0 +1,53 @@
+* {
+    background-color: rgb(158, 158, 158);
+}
+
+
+.square{
+
+    background-color: blue;
+    width: 48%;
+    height: 0;
+    padding-bottom: 48%;
+    margin: 10%;
+    float: center;
+    position: relative;
+}
+.square2{
+    background-color:red;
+    width: 78%;
+    height: 0;
+    padding-bottom: 80%;
+    margin: 10%;
+    float: left;
+    position: relative;
+
+}
+.square3 {
+    background-color: rgb(7, 7, 7);
+    width: 78%;
+    height: 0;
+    padding-bottom: 80%;
+    margin: 10%;
+    float: left;
+    position: relative;
+}
+.square4{
+    background-color: rgb(9, 255, 0);
+    width: 68%;
+    height: 0;
+    padding-bottom: 68%;
+    margin: 17%;
+    float: left;
+    position: relative;
+}
+.square5{
+    background-color: yellow;
+    width: 45%;
+    height: 0%;
+    padding-bottom: 45%;
+    margin: 29%;
+    float: left;
+    position: relative;
+
+}
